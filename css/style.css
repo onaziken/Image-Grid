@@ -1,7 +1,9 @@
 img {
     width: 30%;
     float: left;
-    margin: 1.66%;
+    margin: 1.18%;
+    border: 5px solid #f8f8f8;
+    box-shadow: 0 0 2px 2px #6a6a6a;
 }
 
 h3 {

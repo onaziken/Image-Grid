@@ -2,6 +2,6 @@
 
 -You are free to fork this project. Make changes and commit.
 
--If you find any bugs that need fixing, you can always contact me, I'll fix and push an update.
+-If you know how to improve my project please share that information with me. I'd love to make things better than they are :wink.
 
 -Happy Exploring :D

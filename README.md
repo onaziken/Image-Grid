@@ -1,7 +1,3 @@
 # Image Grid
 
--You are free to fork this project. Make changes and commit.
-
--If you know how to improve my project please share that information with me. I'd love to make things better than they are :wink.
-
--Happy Exploring :D
+-Nothing much to say about the project. It's just a sample I made while learning. So if you find something that I can improve on, please let me know!
